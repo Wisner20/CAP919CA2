@@ -1,0 +1,38 @@
+[
+{
+"CarModel":"Toyota Corolla",
+"carColour":"White","carSeater":5,
+"engineType":"Gasoline",
+"fuelType":"Petrol",
+"carPrice":20000
+},
+
+{
+"CarModel":"Honda Civic",
+"carColour":"Black","carSeater":5,
+"engineType":"Diesel",
+"fuelType":"Diesel",
+"carPrice":25000,"_":["customize"],
+"Car-model":"Honda Civic",
+"car-colour":"Black",
+"car-price":25000,"$0":"index.js"
+},
+
+{
+"CarModel":"Ford Mustang",
+"carColour":"Red",
+"carSeater":4,
+"engineType":"Gasoline",
+"fuelType":"Petrol",
+"carPrice":40000
+},
+
+{
+"CarModel":"BMW X5",
+"carColour":"Blue",
+"carSeater":7,
+"engineType":"Gasoline",
+"fuelType":"Petrol",
+"carPrice":60000
+}
+]
